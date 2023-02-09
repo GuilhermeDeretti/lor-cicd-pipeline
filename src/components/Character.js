@@ -18,7 +18,7 @@ const Character = ({ name, imgUrl, birth, death, race, realm, spouse }) => {
                     Race: {race}
                 </li>
                 <li data-test='char-realm'>
-                    Realme: {realm}
+                    Realm: {realm}
                 </li>
                 <li data-test='char-spouse'>
                     Spouse: {spouse}
